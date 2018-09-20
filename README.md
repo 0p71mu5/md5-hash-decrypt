@@ -25,5 +25,5 @@ python md5-hash-decrypt.py 5f4dcc3b5aa765d61d8327deb882cf99
 For checking hash value on hashkiller.co.uk captcha is required. A popup box will be generated where user needs to enter captcha and press enter.
 
 ## Output:
-<img src="screenshot1.png" />
-<img src="screenshot2.png" />
+<img src="screenshot1.png" width=80%/>
+<img src="screenshot2.png" width=80%/>
